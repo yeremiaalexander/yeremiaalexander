@@ -1,4 +1,4 @@
-# Hi there, I'm Yeremia! 👋
+# Hi there, I'm Jerry! 👋
 
 I am an analytically-driven **M.A. in International Marketing** and **B.Econ. in Development Economics** graduate, currently leveling up my technical skills to transition into **Data Analytics & AI**. 
 
